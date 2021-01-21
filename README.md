@@ -1,1 +1,5 @@
-#mds_b3_boukhezna_fares_dev_unit
+# unit_test
+Unit test with Jest
+
+# How to execute test ?
+npm test

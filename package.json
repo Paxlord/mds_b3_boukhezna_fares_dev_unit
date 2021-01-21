@@ -1,0 +1,22 @@
+{
+  "name": "unit_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "MDS",
+    "Project",
+    "unit",
+    "tests"
+  ],
+  "author": "MDS",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
