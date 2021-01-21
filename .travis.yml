@@ -1,5 +1,7 @@
 language: node_js
 branches:
   - main
+before-install:
+  - npm update
 script:
 - npm test
