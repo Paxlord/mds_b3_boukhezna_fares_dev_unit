@@ -1,5 +1,5 @@
-# unit_test
-Unit test with Jest
+# mds_b3_boukhezna_fares_unit_test
+Unit test with Jest and build with Travis CI and coveralls
 
 # How to execute test ?
 Install with npm install then npm test
