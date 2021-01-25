@@ -73,7 +73,7 @@ test('Should be null', () => {
 
 // toBeFalsy
 test('Should be falsy', () => {
-  expect(false).toBeFalsy();
+  expect(functions.isNull()).toBeFalsy();
 });
 
 // toEqual
